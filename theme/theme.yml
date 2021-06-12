@@ -1,3 +1,3 @@
 extends: default
 title-page:
-  background-image: image:svg-with-local-png.svg[]
+  background-image: image:svg-with-local-png_green.svg[]

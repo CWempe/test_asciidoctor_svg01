@@ -4,6 +4,14 @@
 
 == Foo
 
-Lorem ipsum.
+image::theme/svg-with-local-png_green.svg[]
 
-image::theme/svg-with-local-png.svg[]
+image::theme/svg-with-local-png_red.svg[]
+
+image::images/svg-with-local-png_blue.svg[]
+
+image::theme/square_green.png[]
+
+image::images/square_red.png[]
+
+image::images/square_blue.png[]

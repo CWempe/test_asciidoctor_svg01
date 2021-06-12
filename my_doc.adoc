@@ -1,0 +1,9 @@
+= test1
+:title-page:
+:pdf-theme: theme/theme.yml
+
+== Foo
+
+Lorem ipsum.
+
+image::theme/svg-with-local-png.svg[]

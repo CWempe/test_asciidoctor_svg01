@@ -1,0 +1,3 @@
+extends: default
+title-page:
+  background-image: image:svg-with-local-png.svg[]
